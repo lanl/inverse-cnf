@@ -1,5 +1,5 @@
 # Inverse Machine Learning Model Using Conditional Normalizing Flow (CNF)
-Code related to inverse CNF.
+Code related to inverse CNF for generating initial conditions for scientific simulations.
 
 ## Notice of Copyright Assertion (O5042) 
 This program is Open-Source under the BSD-3 License.
