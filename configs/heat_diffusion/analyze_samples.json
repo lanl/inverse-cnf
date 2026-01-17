@@ -1,0 +1,7 @@
+{
+    "debug": false,
+    "input-data-path": "${INVERSE_CNF_OUTPUT_DIR}/experiments/heat_diffusion_train_model/best_epoch_test/testing_results/result_records/testing_records_*.hdf5",
+    "output-folder": "${INVERSE_CNF_OUTPUT_DIR}/experiments/heat_diffusion_train_model/best_epoch_test",
+    "random-seed": 42,
+    "num-records": 10
+}

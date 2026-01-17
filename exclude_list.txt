@@ -1,0 +1,11 @@
+
+__pycache__ 
+.git*
+batches
+databases
+datasets
+subsets
+experiments
+logs
+*temp*
+schemas

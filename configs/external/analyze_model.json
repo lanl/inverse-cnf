@@ -1,0 +1,6 @@
+{
+    "train": false,
+    "input-folder": "${INVERSE_CNF_OUTPUT_DIR}/experiments/external_train_model",
+    "output-folder": "${INVERSE_CNF_OUTPUT_DIR}/experiments/external_train_model",
+    "max-epoch": null
+}
