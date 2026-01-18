@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "ntasks": 2,
+    "random-seed": 42,
+    "dataset-file": "${INVERSE_CNF_OUTPUT_DIR}/datasets/simple_3x3_1-1000.hdf5",
+    "output-folder": "${INVERSE_CNF_OUTPUT_DIR}/subsets/external_split_702010_batch_25",
+    "model-input-keys": ["a", "b"],
+    "model-target-keys": ["c"],
+    "solver-input-keys": null,
+    "unique-id-key": "random_seed>",
+    "subset-split": [0.7, 0.2, 0.1],
+    "transform-method": "standard",
+    "minmax-range": [-1, 1],
+    "batch-size": 25,
+    "batch-shuffle": false,
+    "flatten-nested-keys": false
+}

@@ -1,0 +1,6 @@
+{
+    "debug": false,
+    "input-folder": "${INVERSE_CNF_OUTPUT_DIR}/experiments/simple_train_model",
+    "output-folder": "${INVERSE_CNF_OUTPUT_DIR}/experiments/simple_train_model",
+    "max-epoch": null
+}

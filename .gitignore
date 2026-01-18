@@ -1,0 +1,11 @@
+**/__pycache__
+.vscode
+batch*/
+database*/
+dataset*/
+subset*/
+experiment*/
+log*/
+test*/
+schemas*/
+temp*
