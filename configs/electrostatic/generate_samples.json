@@ -1,0 +1,15 @@
+{
+    "debug": false,
+    "gpu-device-list": [0],
+    "gpu-memory-fraction": 0.9,
+    "cpu-device-only": false,
+    "ntasks": 2,
+    "random-seed": 42,
+    "input-folder": "${INVERSE_CNF_OUTPUT_DIR}/subsets/electrostatic_split_702010_batch_25",
+    "output-folder": "${INVERSE_CNF_OUTPUT_DIR}/experiments/electrostatic_train_model/best_model_state",
+    "model-state-path": "${INVERSE_CNF_OUTPUT_DIR}/experiments/electrostatic_train_model/checkpoints/best_model_state_*.pt",
+    "model-params-path": "${INVERSE_CNF_OUTPUT_DIR}/experiments/electrostatic_train_model/parameters/model_params.json",
+    "generation-samples": 1000,
+    "generation-limit": 25,
+    "generation-noise": 1.0
+}

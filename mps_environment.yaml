@@ -1,0 +1,20 @@
+name: inv-cnf
+prefix: ${CONDA_BASE}/envs/inv-cnf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - numpy
+  - pandas
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - h5py
+  - jsonschema
+  - matplotlib
+  - seaborn
+  - optuna
+  - torchmetrics

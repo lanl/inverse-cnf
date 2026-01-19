@@ -1,0 +1,7 @@
+**/__pycache__
+**/.vscode
+**/*logs/
+**/*dataset*/
+**/*temp*/
+!**/*.py
+!**/sample_plots/
